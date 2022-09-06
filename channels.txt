@@ -129,21 +129,21 @@ http://127.0.0.1:6878/ace/getstream?id=b899f725b8782aa263026b2bfbd43ee1e18482b6
 http://127.0.0.1:6878/ace/getstream?id=107acd31600d0fdcdbac2065171c39042f3369c7
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,anonimus
 http://127.0.0.1:6878/ace/getstream?id=edfa1c981ad5dac59b6413434a7e69f40c57ab4d
-#EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN3 argentina
+#EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN3 Argentina
 http://127.0.0.1:6878/ace/getstream?id=b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,FOX 3 argentina
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,FOX 3 Argentina
 http://127.0.0.1:6878/ace/getstream?id=9a8c5485a38e9399e81b3eed23e588946946039f
-#EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN EXTRA uruguay
+#EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN EXTRA Uruguay
 http://127.0.0.1:6878/ace/getstream?id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
-#EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,espn argentina 
+#EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN Argentina 
 http://127.0.0.1:6878/ace/getstream?id=8d065adeb9603cb93a080930a45eb5bd457483c6
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Directv ECUADOR
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Directv Ecuador
 http://127.0.0.1:6878/ace/getstream?id=f3f14b89eb62839f97153593432370b5bd61a5df
 #EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN Uruguay
 http://127.0.0.1:6878/ace/getstream?id=2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
 #EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN2 Uruguay
 http://127.0.0.1:6878/ace/getstream?id=e40b29774fdfd953751a71f5695f647726623b9d
-#EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN3 URUGUAY
+#EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN3 Uruguay
 http://127.0.0.1:6878/ace/getstream?id=b97f5975dbd067655432512d4693b417bc85a714
 #EXTINF:-1 group-title="Otro contenido" tvg-id="GOL HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png" ,GOL TV 1080
 http://127.0.0.1:6878/ace/getstream?id=49c35606668ebf7a895434ec4c9243a163d87718
