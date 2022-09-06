@@ -55,8 +55,14 @@ http://127.0.0.1:6878/ace/getstream?id=24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3
 http://127.0.0.1:6878/ace/getstream?id=01b333b9369c662775902638ef8cffac346a0f61
 #EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,LaLiga Tv Bar 720
 http://127.0.0.1:6878/ace/getstream?id=fce88ddb0aca4a0869ecd23bdf0bddc288d95260
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,LIGA DE CAMPEONES
-http://127.0.0.1:6878/ace/getstream?id=c2cd03703ed2a6039668778cb4a36544a7c951ed
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,LIGA DE CAMPEONES HD
+http://127.0.0.1:6878/ace/getstream?id=3a3858cae88f14bbe00f54ba6c9ebf7b1de1e9b6
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,LIGA DE CAMPEONES 2
+http://127.0.0.1:6878/ace/getstream?id=b373a2d2aa4d1aeb7e0d7fcdbe2ce28edf35bb13
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,LIGA DE CAMPEONES 3
+http://127.0.0.1:6878/ace/getstream?id=bb9ec0db8db136f4fcd8986b8681048e2bd95bf1
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" ,LIGA DE CAMPEONES 4
+http://127.0.0.1:6878/ace/getstream?id=297fab10d7364ca1991fa43fcff469573688ce7a
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 1080
 http://127.0.0.1:6878/ace/getstream?id=aedf221240a0f8513d90b555bf1b6e5306ac1e76
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 720
@@ -108,7 +114,7 @@ http://127.0.0.1:6878/ace/getstream?id=b899f725b8782aa263026b2bfbd43ee1e18482b6
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Canal #Ellas
 http://127.0.0.1:6878/ace/getstream?id=475f2c6ddf64b8f165a55046e8bc03b49cfe25cd
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,anonimus
-http://127.0.0.1:6878/ace/getstream?id=4eb769f312e93d623c319fbac0ce0cdd59f24578
+http://127.0.0.1:6878/ace/getstream?id=edfa1c981ad5dac59b6413434a7e69f40c57ab4d
 #EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN3 argentina
 http://127.0.0.1:6878/ace/getstream?id=b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,FOX 3 argentina
