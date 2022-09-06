@@ -33,8 +33,6 @@ http://127.0.0.1:6878/ace/getstream?id=bfbcda5a0999256360ce560caf2a6473aafc3f11
 http://127.0.0.1:6878/ace/getstream?id=a0465ef421f30d0c68ff706654147762ec7b6c03
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,Dazn1_720 
 http://127.0.0.1:6878/ace/getstream?id=dfe2be8e254ceb5b2bd990b9d9877ebcc01e51da
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,Dazn2_720  
-http://127.0.0.1:6878/ace/getstream?id=7ced139f9a15c515c431ccb7e339441d5548a8af
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,LA LIGA
 http://127.0.0.1:6878/ace/getstream?id=c81fb4bec54fed86737544c5609bb863b4acb292
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 1080 MultiAudio
@@ -71,7 +69,7 @@ http://127.0.0.1:6878/ace/getstream?id=f2b785193cfa99c581287be39e2fb5a73827957b
 http://127.0.0.1:6878/ace/getstream?id=a5d22610cb7bd5608c14249e3984bacb54dfe487
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-5-1550.png" ,M.L. Campeones 5 SD
 http://127.0.0.1:6878/ace/getstream?id=8446f55486c0d8c39c7dda19f8dfb071ddca4c94
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L.Campeones_720
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,MLCampeones_720
 http://127.0.0.1:6878/ace/getstream?id=f90c6899eb5cadb0050226548246adb56ceade8a
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#VAMOS
 http://127.0.0.1:6878/ace/getstream?id=4a92829d3999190dcc11118c5388132b19ac5175
